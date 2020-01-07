@@ -1,0 +1,14 @@
+h1 { 
+  color: paleturquoise;
+  font-size: 30px;
+  line-height: 40px;
+}
+h2  {
+  font-style: bold;
+  color: orange;
+  text-align: right;
+}
+p {
+  font-weight: lighter;
+  font-family: papyrus;
+}
